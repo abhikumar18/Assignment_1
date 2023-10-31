@@ -27,3 +27,8 @@ Basic design on Figma: [https://www.figma.com/file/bi5ilhjDy3ltx0PLpLIfVu/Propyl
 We've purposely left the front-end code out so you can set the project up with your preferred tooling.
 
 Inside the `backend` folder you'll find a small npm project that simply servers the data to get you started. `npm i` and `npm start` will then give you your data in json format on port 3004
+
+
+Image
+<img width="660" alt="image" src="https://github.com/abhikumar18/Propylon_Assignment/assets/16397860/ff3f6008-48e9-4bfa-802c-e4b16104410b">
+
