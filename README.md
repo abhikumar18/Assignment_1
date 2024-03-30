@@ -1,4 +1,4 @@
-# Propylon - Front-end challenge
+# Front-end challenge
 
 The objective of this code challenge is to give the candidate the opportunity to demonstrate their technical skills. We're focused here on setting the foundation for a maintainable codebase to grow. If this was the start of a bigger project, how would you set it up, which tools would you choose and what architectural decisions are important to make now and which can wait until later.
 
